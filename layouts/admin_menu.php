@@ -5,6 +5,28 @@
       <span>Dashboard</span>
     </a>
   </li>
+    <li>
+        <a href="warehouse.php">
+            <i class="glyphicon glyphicon-home"></i>
+            <span>Warehouse</span>
+        </a>
+    </li>
+    <li>
+        <a href="product-manhole.php">
+            <i class="glyphicon glyphicon-tower"></i>
+            <span>Product</span>
+        </a>
+    </li>
+    <li>
+        <a href="product-manhole.php">
+            <i class="glyphicon glyphicon-tent"></i>
+            <span>Package</span>
+        </a>
+        <ul class="nav submenu">
+            <li><a href="group.php">Manage Kutijaz</a> </li>
+            <li><a href="users.php">Manage Palete</a> </li>
+        </ul>
+    </li>
   <li>
     <a href="#" class="submenu-toggle">
       <i class="glyphicon glyphicon-user"></i>
